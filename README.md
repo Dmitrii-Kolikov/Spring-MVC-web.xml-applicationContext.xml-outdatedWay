@@ -24,3 +24,12 @@
 
 ##### Изучение основ HTML
 https://www.youtube.com/watch?v=4jYYHaTwWvY
+
+###### Что мы сделаем на этом уроке
+- Создадим новое пустое приложение Spring приложение
+- Подключим TomCat к IntelliJ Idea (чтобы удобно запускать сервер прямо из IDE)
+- Реализуем web.xml файл
+- Реализуем applicationContext.xml
+- Реализуем контроллер и представление (пока без модели)
+- Добавим необходимые зависимости в pom.xml (Spring Core, Spring Context, Spring Web, Spring Web MVC, Thymeleaf Spring5)
+- Изучим основы HTML
