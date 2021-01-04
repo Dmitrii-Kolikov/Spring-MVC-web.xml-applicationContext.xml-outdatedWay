@@ -1,2 +1,3 @@
 # Spring-MVC-web.xml-applicationContext.xml-outdatedWay
-![Image alt](https://github.com/Dmitrii-Kolikov//Spring-MVC-web.xml-applicationContext.xml-outdatedWay/raw/master/Users\Dmitry\Desktop/image.png)
+
+![springMVC](https://user-images.githubusercontent.com/74898966/103503047-b210e280-4e85-11eb-9101-3137abaad971.jpg)
